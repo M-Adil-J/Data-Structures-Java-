@@ -1,5 +1,5 @@
-class BinaryTree {
-    // Root of Binary Tree
+public class BinaryTree {
+    
     Node root;
 
     // Constructors
